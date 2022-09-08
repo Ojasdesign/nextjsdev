@@ -1,3 +1,3 @@
 # nextjsdev
-Tutorial Nextjs for pio stte development. by mukesh Kumar
+Tutorial Nextjs for pio site development. by mukesh Kumar
 
