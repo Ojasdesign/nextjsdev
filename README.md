@@ -1,2 +1,3 @@
 # nextjsdev
-pio Nextjs development
+Tutorial Nextjs for pio stte development. by mukesh Kumar
+
